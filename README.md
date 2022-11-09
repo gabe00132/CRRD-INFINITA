@@ -1,1 +1,1 @@
-# CRRD-INFINITA
+# corrida-infini
